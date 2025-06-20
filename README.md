@@ -32,7 +32,7 @@ The project uses publicly available datasets containing data related to:
 
 1. Clone the repository:
    ```bash
-   git clone 
+   git clone https://github.com/Rasulpasha/Carbon_Emission_Prediction.git
 ````
 
 2. Navigate to the project folder:
